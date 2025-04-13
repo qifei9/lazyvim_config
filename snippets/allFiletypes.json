@@ -1,0 +1,11 @@
+{
+  "Fold Section": {
+    "prefix": "foldp",
+    "body": [
+      "# $1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~{{{",
+      "$2",
+      "# ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~}}}"
+    ],
+    "description": "Insert a fold section"
+  }
+}
